@@ -27,7 +27,8 @@ b=input()
 print("Swapped values are:",b,a)
 ```
 ## OUTPUT:
-![output](/swap%20output.png)
+![image](https://github.com/Lokhnath10/Swapping-two-values/assets/138969918/5c54a029-eb62-4dc9-9891-7013526074f2)
+
 
 ## RESULT:
 Thus the swapping of two values are successfully executed
